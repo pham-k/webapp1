@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Lq6WP1I9cgwBmdBS1QrxTE4raVgAWr3nHJLQdpZr1RRyCCH7BiM8z2vD7ZC9bW0feJKQlSJK1tamVMzwaNa0qQ==",
+  "success": true,
+  "projectFilePath": "/home/kyo/Documents/learning/cntt/ky-thuat-lap-trinh/webapp1/webapp1.csproj",
+  "expectedPackageFiles": [
+    "/home/kyo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
